@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32228.343
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FA2_Interface", "FA2_Interface\FA2_Interface.csproj", "{9AE5559D-10D8-4B46-9D68-853C5F8800DC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9AE5559D-10D8-4B46-9D68-853C5F8800DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9AE5559D-10D8-4B46-9D68-853C5F8800DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9AE5559D-10D8-4B46-9D68-853C5F8800DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9AE5559D-10D8-4B46-9D68-853C5F8800DC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F2B8468D-91D4-45B2-A186-6C43951B2989}
+	EndGlobalSection
+EndGlobal
